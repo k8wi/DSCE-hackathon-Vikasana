@@ -10,6 +10,4 @@ Hackathon Project for HackAventus organized by DSCE, Bangalore
 ![c3](https://github.com/k8wi/DSCE-hackathon-Vikasana/assets/95972832/08c439ed-290e-419e-9025-3c0d5db3f8e9)
 <br><br>
 
-## Take a look at  Working Demo of our Project
-
 
